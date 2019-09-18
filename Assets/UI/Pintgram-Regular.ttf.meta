@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 617e302952a5199478ea71fc8d9e7412
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pintgram
+  fontNames:
+  - Pintgram
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63a07c0ff1c1d7c458e7d49a1eb9d386, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
