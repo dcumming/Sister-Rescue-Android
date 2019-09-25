@@ -12,5 +12,6 @@ Notable Files
   * UI/ - contains files related to text & images the user can interact with
   * Music/ - contains audio files for the game
   * Animations/ - contains files for character & enemy animations
+  * Sprites/ - contains files for character & asset design
 
 [demo]: video/Demo.mp4
